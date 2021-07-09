@@ -1,5 +1,7 @@
 # CirculationNumberMacro
 
 ## How to use
-苦情はそんしまで
+- CirculationNumberMacro.basにマクロ本体かいてあります。  
+- ５分で作ったのであんまりテストしてないです。
+- なにかあればそんしまで
 以上。
